@@ -17,7 +17,7 @@ Student from Vizianagaram, Andhra Pradesh. Aspiring Developer building websites 
 HTML, CSS, React, Vite, Tailwind CSS, GitHub, Bolt.new, Vibe Coding
 
 ## Contact
-Email: tejad66@gmail.com
+Email: tejeshdevarapalli@gmail.com
 Location: Vizianagaram, Andhra Pradesh
 
 Made by Tejesh Devarapalli
