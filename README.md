@@ -1,4 +1,4 @@
-# tejesh---protofolio
+# tejesh---portofolio
 # Tejesh Devarapalli - Portfolio 💼
 
 My personal portfolio website built using Vibe Coding with Bolt.
